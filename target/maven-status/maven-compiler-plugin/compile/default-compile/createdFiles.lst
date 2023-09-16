@@ -1,0 +1,9 @@
+com\example\proyectoLogin\models\domain\Usuario.class
+com\example\proyectoLogin\validation\IdentificadorRegexValidador.class
+com\example\proyectoLogin\validation\IdentificadorRegex.class
+com\example\proyectoLogin\validation\RequeridoValidador.class
+com\example\proyectoLogin\models\domain\Pais.class
+com\example\proyectoLogin\validation\Requerido.class
+com\example\proyectoLogin\models\domain\Role.class
+com\example\proyectoLogin\validation\UsuarioValidador.class
+com\example\proyectoLogin\ProyectoLoginApplication.class
