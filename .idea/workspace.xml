@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81c0f69b-214b-4e12-af36-70e74fdb0847" name="Changes" comment="" />
+    <list default="true" id="81c0f69b-214b-4e12-af36-70e74fdb0847" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/proyectoLogin/controllers/formController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/proyectoLogin/editors/NombreMayusculaEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/proyectoLogin/editors/NombreMayusculaEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/proyectoLogin/editors/PaisPropertyEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/proyectoLogin/editors/PaisPropertyEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/proyectoLogin/editors/RolesEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/proyectoLogin/editors/RolesEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/proyectoLogin/services/PaisService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/proyectoLogin/services/PaisService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/proyectoLogin/services/PaisServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/proyectoLogin/services/PaisServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/proyectoLogin/services/RoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/proyectoLogin/services/RoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/proyectoLogin/services/RoleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/proyectoLogin/services/RoleServiceImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -80,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694893749705</updated>
       <workItem from="1694893750642" duration="23000" />
-      <workItem from="1694893781040" duration="4828000" />
+      <workItem from="1694893781040" duration="8908000" />
     </task>
     <servers />
   </component>
