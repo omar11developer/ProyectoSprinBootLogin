@@ -9,7 +9,7 @@ import java.util.List;
 
 public class Usuario {
     @IdentificadorRegex
-    private String indentificador;
+    private String identificador;
     private String nombre;
     @Requerido
     private String apellido;
@@ -40,12 +40,12 @@ public class Usuario {
     private String genero;
     private String valorSecreto;
 
-    public String getIndentificador() {
-        return indentificador;
+    public String getIdentificador() {
+        return identificador;
     }
 
-    public void setIndentificador(String indentificador) {
-        this.indentificador = indentificador;
+    public void setIdentificador(String identificador) {
+        this.identificador = identificador;
     }
 
     public String getNombre() {

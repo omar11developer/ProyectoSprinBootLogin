@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81c0f69b-214b-4e12-af36-70e74fdb0847" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/resultado.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/proyectoLogin/controllers/formController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/proyectoLogin/controllers/formController.java" afterDir="false" />
-    </list>
+    <list default="true" id="81c0f69b-214b-4e12-af36-70e74fdb0847" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,12 +35,17 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2VUbkLnWB4RLl2wHRwWAhNGTSDx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -58,7 +58,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -88,6 +88,7 @@
       <updated>1694893749705</updated>
       <workItem from="1694893750642" duration="23000" />
       <workItem from="1694893781040" duration="10599000" />
+      <workItem from="1694964321706" duration="5498000" />
     </task>
     <servers />
   </component>

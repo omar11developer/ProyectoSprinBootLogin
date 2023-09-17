@@ -98,22 +98,27 @@ public class formController {
         Usuario usuario = new Usuario();
         usuario.setNombre("Jhon");
         usuario.setApellido("Doe");
-        usuario.setIndentificador("123.456.789-K");
+        usuario.setIdentificador("123.456.789-K");
         usuario.setHabilitar(true);
         usuario.setValorSecreto("Algun valor secreto ****");
         usuario.setPais(new Pais(3,"CL","Chile"));
         usuario.setRoles(Arrays.asList(new Role(2,"Usuario","ROLE_USER")));
+        usuario.setCuenta(2);
+
         model.addAttribute("titulo", "Formulario usuario");
         model.addAttribute("usuario", usuario);
         return "form";
     }
+
     @PostMapping("/form")
     public String procesar(@Valid Usuario usuario, BindingResult result, Model model){
         if(result.hasErrors()){
             model.addAttribute("titulo", "Resultado form");
+            return "form";
         }
         return "redirect:/ver";
     }
+
     @GetMapping("/ver")
     public String ver(@SessionAttribute(name="usuario",required =false) Usuario usuario, Model model, SessionStatus status){
         if(usuario == null){
